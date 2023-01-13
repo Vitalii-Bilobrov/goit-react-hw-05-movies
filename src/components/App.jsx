@@ -1,6 +1,4 @@
 import { Route, Routes, Navigate } from 'react-router-dom';
-
-// import { Layout } from '../components/layout/Layout';
 import { Home } from '../pages/home/Home';
 import { Movies } from '../pages/movies/Movies';
 import { Layout } from '../components/layout/Layout';
